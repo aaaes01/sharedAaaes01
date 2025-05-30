@@ -16,6 +16,7 @@ git git hub git git git hub hub
 물은 흐르지 내 생명은 흐르지 않길
 지구가 커져 생체리듬 30시간 되길 발명해.
 나 혼자라도 30시간 되길 발명.
+궁금증이 해결되지 않으면 앞을 나아가기 힘드니깐.
 애플을 정복하러
 i will bite apple
 while !정복 apple {
